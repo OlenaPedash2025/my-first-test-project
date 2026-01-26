@@ -1,0 +1,15 @@
+2026-01-26 09:00:01 INFO Connection established to server alpha
+2026-01-26 09:00:05 INFO User 'admin' logged in
+2026-01-26 09:01:12 WARNING Disk space is low (15% remaining)
+2026-01-26 09:02:45 ERROR Failed to upload image_01.png
+2026-01-26 09:03:10 INFO User 'guest123' logged in
+2026-01-26 09:05:22 INFO Connection established to server beta
+2026-01-26 09:06:01 ERROR Database connection lost
+2026-01-26 09:06:05 ERROR Database connection lost
+2026-01-26 09:07:44 INFO User 'admin' logged out
+2026-01-26 09:10:00 WARNING High CPU usage detected: 85%
+2026-01-26 09:11:15 ERROR Database connection lost
+2026-01-26 09:12:30 INFO User 'dev_user' logged in
+2026-01-26 09:13:02 INFO File 'report.pdf' downloaded successfully
+2026-01-26 09:15:40 WARNING Disk space is low (12% remaining)
+2026-01-26 09:18:21 ERROR Failed to upload image_02.png
