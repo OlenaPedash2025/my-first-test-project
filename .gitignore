@@ -5,6 +5,8 @@ node_modules/
 # Python Cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # TypeScript Output (Build files)
 *.js
@@ -14,3 +16,4 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+.history

@@ -1,0 +1,32 @@
+[
+  {
+    "exhibit_title": "Silver Chalice of Oakhaven",
+    "creation_year": 1452,
+    "is_on_display": true,
+    "weight_kg": 1.4
+  },
+  {
+    "exhibit_title": "Obsidian Dagger",
+    "creation_year": -850,
+    "is_on_display": false,
+    "weight_kg": 0.35
+  },
+  {
+    "exhibit_title": "Ceremonial Jade Belt",
+    "creation_year": 1120,
+    "is_on_display": true,
+    "weight_kg": 2.1
+  },
+  {
+    "exhibit_title": "Bronze Chariot Wheel",
+    "creation_year": 320,
+    "is_on_display": true,
+    "weight_kg": 15.8
+  },
+  {
+    "exhibit_title": "Ivory Chess King",
+    "creation_year": 1705,
+    "is_on_display": false,
+    "weight_kg": 0.12
+  }
+]
