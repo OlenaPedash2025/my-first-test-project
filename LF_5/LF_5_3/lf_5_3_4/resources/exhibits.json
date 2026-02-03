@@ -1,32 +1,42 @@
 [
   {
+    "id": 1,
     "exhibit_title": "Silver Chalice of Oakhaven",
     "creation_year": 1452,
     "is_on_display": true,
-    "weight_kg": 1.4
+    "weight_kg": 1.4,
+    "creator": "Master Alchemist Elias"
   },
   {
+    "id": 2,
     "exhibit_title": "Obsidian Dagger",
     "creation_year": -850,
     "is_on_display": false,
-    "weight_kg": 0.35
+    "weight_kg": 0.35,
+    "creator": "Unknown (Ancient Craftsman)"
   },
   {
+    "id": 3,
     "exhibit_title": "Ceremonial Jade Belt",
     "creation_year": 1120,
     "is_on_display": true,
-    "weight_kg": 2.1
+    "weight_kg": 2.1,
+    "creator": "Imperial Workshop of the Song Dynasty"
   },
   {
+    "id": 4,
     "exhibit_title": "Bronze Chariot Wheel",
     "creation_year": 320,
     "is_on_display": true,
-    "weight_kg": 15.8
+    "weight_kg": 15.8,
+    "creator": "Roman Military Engineer"
   },
   {
+    "id": 5,
     "exhibit_title": "Ivory Chess King",
     "creation_year": 1705,
     "is_on_display": false,
-    "weight_kg": 0.12
+    "weight_kg": 0.12,
+    "creator": "Jean-Luc Martineau"
   }
 ]
