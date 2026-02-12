@@ -1,1 +1,0 @@
-let x: string = "Hello, TypeScript!";
